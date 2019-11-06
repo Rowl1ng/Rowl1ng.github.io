@@ -28,6 +28,9 @@
         <!-- Blog -->
         <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a>
 
+        <!-- Wiki -->
+        <a class="page-link" href="{{ '/MyWiki/' | prepend: site.baseurl | prepend: site.url }}">wiki</a>
+
         <!-- Pages -->
         {% for page in site.pages %}
           {% if page.title and page.url != "/" %}
