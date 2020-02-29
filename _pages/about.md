@@ -6,7 +6,7 @@ description: PhD Student in <a href="">SketchX Lab, CVSSP, University of Surrey<
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.gif
   address: >
     <p>03 BB 00</p>
     <p>CVSSP</p>
