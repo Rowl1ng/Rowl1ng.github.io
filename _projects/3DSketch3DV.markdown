@@ -17,13 +17,20 @@ At last, we compare the common multi-view and volumetric approaches:
 We show that, in contrast to a 3D shape retrieval from a reference 3D shape,  volumetric point-based approaches exhibit superior performance for a retrieval from a reference 3D sketch due to the sparse and abstract nature of 3D VR-sketches.
 We believe these contributions will collectively serve as enablers for future attempts at this problem.
 
+### Dataset Visualization
 
 ### Resources
 
-paper link
+paper link (Coming soon!)
 
-code link
+Code Projects:
 
-human sketch dataset link
+- [Sketch Generation][1]
+- [VR Sketch Interface][2]
+
+Human sketch dataset link (Coming soon!)
 
 ### Acknowledgements
+
+[1]: https://github.com/ygryadit/Towards3DVRSketch
+[2]: https://github.com/Rowl1ng/Sketch_VR
