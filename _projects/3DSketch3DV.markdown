@@ -34,4 +34,4 @@ Human sketch dataset link (Coming soon!)
 
 [1]: https://github.com/ygryadit/Towards3DVRSketch
 [2]: https://github.com/Rowl1ng/Sketch_VR
-[3]: https://d2yvu3at8x4jkc.cloudfront.net/papers/812800a081.pdf
+[3]: https://rowl1ng.com/assets/pdf/3DV_VRSketch.pdf
