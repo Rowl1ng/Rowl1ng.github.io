@@ -28,10 +28,12 @@ Code Projects:
 - [Sketch Generation][1]
 - [VR Sketch Interface][2]
 
-Human sketch dataset link (Coming soon!)
+Synthetic sketch and human sketch dataset link：
+- [Google Drive][4]
 
-### Acknowledgements
+
 
 [1]: https://github.com/ygryadit/Towards3DVRSketch
 [2]: https://github.com/Rowl1ng/Sketch_VR
 [3]: https://rowl1ng.com/assets/pdf/3DV_VRSketch.pdf
+[4]: https://drive.google.com/file/d/1FkKZfWt7O4xMy4ir5kCYcmwZLPk1uBcZ/view?usp=sharing
