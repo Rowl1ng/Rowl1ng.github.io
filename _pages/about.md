@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Ling</strong> Luo
-description: PhD Student in <a href="">SketchX Lab, CVSSP, University of Surrey</a>. 
+description: PhD Student in SketchX Lab, CVSSP, University of Surrey. 
 
 profile:
   align: right
@@ -13,6 +13,7 @@ profile:
     <p>University of Surrey, Guildford, Surrey.  GU2 7XH</p>
 
 news: true
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true
 ---
 
