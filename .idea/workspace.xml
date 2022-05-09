@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f53b6e4a-32ae-46d2-a0c7-6633dbec3042" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/3DSketch3DV.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/3DSketch3DV.markdown" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,14 +14,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.74734986">
+    <splitter split-orientation="horizontal" split-proportion="0.7268994">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_projects/3DSketch3DV.markdown">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="238">
+                  <first_editor relative-caret-position="369">
                     <caret line="33" selection-start-line="33" selection-end-line="33" />
                   </first_editor>
                   <second_editor />
@@ -295,7 +294,8 @@
       <workItem from="1606261973420" duration="1034000" />
       <workItem from="1606283156313" duration="373000" />
       <workItem from="1607957411287" duration="643000" />
-      <workItem from="1608019089245" duration="92000" />
+      <workItem from="1608019089245" duration="500000" />
+      <workItem from="1608133088666" duration="156000" />
     </task>
     <task id="LOCAL-00002" summary="add avatar">
       <created>1583001090193</created>
@@ -360,17 +360,24 @@
       <option name="project" value="LOCAL" />
       <updated>1606262807644</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add 3DSketch dataset">
+      <created>1608116057215</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608116057215</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11902000" />
+    <option name="totallyTimeSpent" value="12466000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1505" y="-321" width="1440" height="788" extended-state="0" />
+    <frame x="1498" y="-471" width="1768" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2015504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16370921" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -381,9 +388,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49612403" visible="true" weight="0.3173913" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49570692" visible="true" weight="0.3173913" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49682876" weight="0.5192771" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.503876" side_tool="true" visible="true" weight="0.3173913" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5042931" side_tool="true" visible="true" weight="0.3173913" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -396,7 +403,8 @@
     <MESSAGE value="add ico" />
     <MESSAGE value="add avatar" />
     <MESSAGE value="add 3DSketch project page" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 3DSketch project page" />
+    <MESSAGE value="add 3DSketch dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 3DSketch dataset" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_pages/wiki.md" />
@@ -436,7 +444,7 @@
     <entry file="file://$PROJECT_DIR$/_projects/3DSketch3DV.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
+          <first_editor relative-caret-position="369">
             <caret line="33" selection-start-line="33" selection-end-line="33" />
           </first_editor>
           <second_editor />
