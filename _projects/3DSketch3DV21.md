@@ -3,6 +3,8 @@ layout: page
 title: 'Fine-Grained VR Sketching: Dataset and Insights.'
 description: 
 img: /assets/img/9.jpg
+importance: 1
+category: work
 ---
 
 ## Abstract

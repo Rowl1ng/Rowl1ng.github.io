@@ -3,6 +3,8 @@ layout: page
 title: NeuralFish
 description: Simulator of fish with Neural Network and p5.js
 img: /assets/img/12.jpg
+importance: 2
+category: fun
 ---
 
 May take some time to load. [Code on Github][1].
