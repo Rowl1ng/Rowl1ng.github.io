@@ -56,8 +56,8 @@ orcid_id: 0000-0003-3504-4110 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: 
+#  You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -75,18 +75,12 @@ blog_description:
 pagination:
   enabled: true
 
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
-
 # Comments
 # disqus_shortname: al-folio # put your disqus shortname
 
-# Optional features
-show_social_icons:  false
-enable_anchorjs:    false
-enable_katex:       true
+external_sources:
+  - name: rowl1ng.com
+    rss_url: https://rowl1ng.com/blog/feed.xml
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -107,13 +101,32 @@ news_limit: 5
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
-# Build settings
+# Markdown and syntax highlight
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
+highlight_theme_light: github  # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: native  # https://github.com/jwarby/jekyll-pygments-themes
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor]
+exclude:
+  - bin
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+keep_files:
+  - CNAME
+  - .nojekyll
+  - .git
 
 # Plug-ins
 plugins:
@@ -158,6 +171,21 @@ minify: false
 sass:
   style: compressed
 
+# -----------------------------------------------------------------------------
+# Jekyll Archives
+# -----------------------------------------------------------------------------
+
+jekyll-archives:
+  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  layouts:
+    year: archive-year
+    tag: archive-tag
+    category: archive-category
+  permalinks:
+    year: '/blog/:year/'
+    tag: '/blog/tag/:name/'
+    category: '/blog/category/:name/'
+
 # Jekyll-Scholar
 scholar:
 
@@ -167,12 +195,13 @@ scholar:
   style: apa
   locale: en
 
-  sort_by: year
-  order: ascending
-
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
+  # Note: if you have latex math in your bibtex, the latex filter
+  # preprocessing may conflict with MathJAX if the latter is enabled.
+  # See https://github.com/alshedivat/al-folio/issues/357.
+  bibtex_filters: [latex, smallcaps, superscript]
 
   replace_strings: true
   join_strings: true
@@ -182,6 +211,9 @@ scholar:
   details_link: Details
 
   query: "@*"
+
+  filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website] # Filter out certain bibtex entry keywords used internally from the bib output
+
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
