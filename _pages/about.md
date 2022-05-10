@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Ling</strong> Luo
-description: PhD Student in SketchX Lab, CVSSP, University of Surrey. 
+subtitle: PhD Student in SketchX Lab, CVSSP, University of Surrey. 
 
 profile:
   align: right

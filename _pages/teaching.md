@@ -2,7 +2,8 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description: Materials for courses I taught. 
+nav: true
 ---
 
 Coming soon! :smile:

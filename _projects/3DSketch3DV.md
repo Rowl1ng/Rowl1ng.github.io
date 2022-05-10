@@ -2,7 +2,9 @@
 layout: page
 title: Towards 3D VR-Sketch to 3D Shape Retrieval
 description: 
-img: /assets/img/9.jpg
+img: assets/img/12.jpg
+importance: 1
+category: work
 ---
 
 ### Abstract
