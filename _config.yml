@@ -50,7 +50,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: Rowl1ng # your GitHub user name
-twitter_username: Rowl1ngLuo # your Twitter handle
+twitter_username: LingLuo95 # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: 0000-0003-3504-4110 # your ORCID ID
@@ -185,7 +185,6 @@ sass:
 
 # Jekyll-Scholar
 scholar:
-
   last_name: Luo
   first_name: [Ling, L]
 

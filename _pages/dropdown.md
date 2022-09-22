@@ -1,12 +1,12 @@
 ---
 layout: page
-title: more
+title: More
 nav: true
 dropdown: true
 children: 
-    - title: blog
+    - title: Blog
       permalink: /blog/
     - title: divider
-    - title: wiki
+    - title: Wiki
       permalink: /MyWiki/
 ---
