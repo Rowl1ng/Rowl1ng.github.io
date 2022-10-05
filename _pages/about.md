@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true
 ---
 
-I focus on sketch-related research supervised by [Prof. Yi-Zhe Song](https://scholar.google.co.uk/citations?user=irZFP_AAAAAJ&hl=en){:target="\_blank"} (Director, SketchX Lab, CVSSP, University of Surrey); co-supervised by [Yulia Gryaditskaya](https://yulia.gryaditskaya.com), [Prof. Tao Xiang](https://scholar.google.co.uk/citations?user=MeS5d4gAAAAJ&hl=en){:target="\_blank"} and [Dr. Yongxin Yang](https://scholar.google.co.uk/citations?user=F7PtrL8AAAAJ&hl=en){:target="\_blank"}. 
+I focus on sketch-related research supervised by [Prof. Yi-Zhe Song](https://scholar.google.co.uk/citations?user=irZFP_AAAAAJ&hl=en){:target="\_blank"} (Director, SketchX Lab, CVSSP, University of Surrey); co-supervised by [Dr. Yulia Gryaditskaya](https://yulia.gryaditskaya.com), [Prof. Tao Xiang](https://scholar.google.co.uk/citations?user=MeS5d4gAAAAJ&hl=en){:target="\_blank"} and [Dr. Yongxin Yang](https://scholar.google.co.uk/citations?user=F7PtrL8AAAAJ&hl=en){:target="\_blank"}. 
