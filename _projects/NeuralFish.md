@@ -2,7 +2,8 @@
 layout: page
 title: NeuralFish
 description: Simulator of fish with Neural Network and p5.js
-img: /assets/img/12.jpg
+github: https://github.com/Rowl1ng/NeuralFish
+img: assets/img/projects/NeuralFish.png
 importance: 2
 category: fun
 ---

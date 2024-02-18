@@ -3,15 +3,9 @@ layout: about
 permalink: /
 title: <strong>Ling</strong> Luo
 subtitle: PhD Student in SketchX Lab, CVSSP, University of Surrey. 
-
 profile:
   align: right
   image: avatar.gif
-  address: >
-    <p>03 BB 00</p>
-    <p>CVSSP</p>
-    <p>University of Surrey, Guildford, Surrey.  GU2 7XH</p>
-
 news: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true
